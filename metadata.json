@@ -1,0 +1,6 @@
+{
+  "name": "พี่ทอสติวเตอร์ NT ป.3 (P'Tos Tutor)",
+  "description": "พี่ทอสติวเตอร์ใจดี สำหรับติวข้อสอบ NT ป.3 ไกด์วิธีคิดทีละนิด พร้อมประเมินและให้คะแนนวิธีคิดของน้องๆ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
